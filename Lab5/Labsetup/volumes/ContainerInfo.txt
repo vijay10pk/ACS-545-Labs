@@ -1,0 +1,5 @@
+1077531c3b87  hostA-10.9.0.5
+2e29abcebb93  seed-router
+ebe5fc654222  host3-192.168.60.7
+82b00e3d9294  host2-192.168.60.6
+abee5742a5fa  host1-192.168.60.5

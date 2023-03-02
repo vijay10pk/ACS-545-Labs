@@ -1,0 +1,8 @@
+2f78bed08544  host-192.168.60.6
+6affad7a355d  client-10.9.0.5 - Host U
+c97e85b7c297  server-router
+2ab92a71a8c7  host-192.168.60.5 - Host V
+
+
+command for custom bash name:
+export PS1="router-10.9.0.11-192.168.60.11:\w\n\$>"
